@@ -16,7 +16,7 @@ export default function Home() {
           type="button"
           class="btn btn-outline-secondary btn-lg btn-block mt-3 "
         >
-          <Link to="/chat" style={{ textDecoration: "none", color: "black" }}>
+          <Link to="/chat" style={{ textDecoration: "none", color: "blue" }}>
             Create Conversation
           </Link>
         </button>
