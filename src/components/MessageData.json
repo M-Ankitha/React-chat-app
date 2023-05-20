@@ -1,0 +1,241 @@
+[
+  
+  { 
+    "message": "how are you? ",
+    "fromUser": "Ankitha",
+    "toUser": "arun",
+    "time": "15787635789698"
+  },
+  { 
+    "message": "Hello, I am fine ",
+    "fromUser": "arun",
+    "toUser": "Ankitha",
+    "time": "15787635789712"
+  },
+  {
+    "message": "hi ",
+    "fromUser": "Ankitha",
+    "toUser": "ashu",
+    "time": "1578763444164"
+  },
+  {
+    "message": "hlo",
+    "fromUser": "Ankitha",
+    "toUser": "ashu",
+    "time": "1588763469520"
+  },
+  {
+    "message": "hi ",
+    "fromUser": "Ankitha",
+    "toUser": "ashu",
+    "time": "1598763469520"
+  },
+  {
+    "message": "hlo",
+    "fromUser": "Ankitha",
+    "toUser": "ashu",
+    "time": "148763469520"
+  },
+  {
+    "message": "hi",
+    "fromUser": "Ankitha",
+    "toUser": "ashu",
+    "time": "1561763469520"
+  },
+  {
+    "message": "whats upp",
+    "fromUser": "Ankitha",
+    "toUser": "Anu",
+    "time": "1562763469520"
+  },
+  {
+    "message": "how are you?",
+    "fromUser": "Ankitha",
+    "toUser": "Anu",
+    "time": "1563763469520"
+  },
+  {
+    "message": "Are you fine",
+    "fromUser": "Ankitha",
+    "toUser": "Anu",
+    "time": "1464763469520"
+  },
+  {
+    "message": "happy birthday",
+    "fromUser": "Ankitha",
+    "toUser": "Anu",
+    "time": "1465743469520"
+  },
+  {
+    "message": "good morning",
+    "fromUser": "Ankitha",
+    "toUser": "Anu",
+    "time": "1466763469540"
+  },
+  {
+    "message": "hey great",
+    "fromUser": "Ankitha",
+    "toUser": "Anu",
+    "time": "1467763464520"
+  },
+  {
+    "message": "How it looks!!",
+    "fromUser": "Ankitha",
+    "toUser": "archu",
+    "time": "1469764469520"
+  },
+  {
+    "message": "hey aa",
+    "fromUser": "Ankitha",
+    "toUser": "archu",
+    "time": "1468413469520"
+  },
+  {
+    "message": "what u doing",
+    "fromUser": "Ankitha",
+    "toUser": "archu",
+    "time": "1168712469520"
+  },
+  {
+    "message": "yoyo",
+    "fromUser": "Ankitha",
+    "toUser": "archu",
+    "time": "1468763469520"
+  },
+  {
+    "message": "happy sunday",
+    "fromUser": "Ankitha",
+    "toUser": "archu",
+    "time": "1464763449520"
+  },
+  {
+    "message": "what about you",
+    "fromUser": "Ankitha",
+    "toUser": "archu",
+    "time": "1168763465510"
+  },
+  {
+    "message": "nothing",
+    "fromUser": "Ankitha",
+    "toUser": "anju",
+    "time": "1568763466420"
+  },
+  {
+    "message": "are you going",
+    "fromUser": "Ankitha",
+    "toUser": "anju",
+    "time": "1568763464520"
+  },
+
+  {
+    "message": "when to do??",
+    "fromUser": "Ankitha",
+    "toUser": "anju",
+    "time": "1168763464580"
+  },
+  {
+    "message": "come on everyone",
+    "fromUser": "ashu",
+    "toUser": "Ankitha",
+    "time": "1468763708794"
+  },
+
+  {
+    "message": "hahaa",
+    "fromUser": "ashu",
+    "toUser": "Ankitha",
+    "time": "1468763708794"
+  },
+  {
+    "message": "lol",
+    "fromUser": "anju",
+    "toUser": "Ankitha",
+    "time": "1468763748494"
+  },
+
+  {
+    "message": " funny",
+    "fromUser": "archu",
+    "toUser": "Ankitha",
+    "time": "1568763708974"
+  },
+
+  {
+    "message": "what about you",
+    "fromUser": "archu",
+    "toUser": "Ankitha",
+    "time": "1467763718494"
+  },
+  {
+    "message": "hi",
+    "fromUser": "anju",
+    "toUser": "Ankitha",
+    "time": "1458763708444"
+  },
+  {
+    "message": "hi",
+    "fromUser": "archu",
+    "toUser": "Ankitha",
+    "time": "1578763778494"
+  },
+  {
+    "message": "hlooo",
+    "fromUser": "ashu",
+    "toUser": "Ankitha",
+    "time": "1568763807494"
+  },
+  {
+    "message": "nothing",
+    "fromUser": "anju",
+    "toUser": "Ankitha",
+    "time": "1468763708794"
+  },
+  {
+    "message": "how r u?",
+    "fromUser": "archu",
+    "toUser": "Ankitha",
+    "time": "1468763708494"
+  },
+  {
+    "message": "heyy",
+    "fromUser": "ashu",
+    "toUser": "Ankitha",
+    "time": "1368763708494"
+  },
+  {
+    "message": "hey ",
+    "fromUser": "archu",
+    "toUser": "Ankitha",
+    "time": "1368763708494"
+  },
+  {
+    "message": "are you going",
+    "fromUser": "anju",
+    "toUser": "Ankitha",
+    "time": "1568753708494"
+  },
+  {
+    "message": "happy sunday",
+    "fromUser": "archu",
+    "toUser": "Ankitha",
+    "time": "1268763792042"
+  },
+  {
+    "message": "nothing",
+    "fromUser": "anju",
+    "toUser": "Ankitha",
+    "time": "1268463792042"
+  },
+  {
+    "message": "hey great",
+    "fromUser": "ashu",
+    "toUser": "Ankitha",
+    "time": "1268783792042"
+  },
+  {
+    "message": "good morning",
+    "fromUser": "archu",
+    "toUser": "Ankitha",
+    "time": "1268763992042"
+  }
+]
