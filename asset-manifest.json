@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-chat-app/static/css/main.fa0a6809.css",
+    "main.js": "/React-chat-app/static/js/main.d04c57a2.js",
+    "static/media/AnkithaProfilePic.png": "/React-chat-app/static/media/AnkithaProfilePic.e5b7731e9a1f73e5deef.png",
+    "index.html": "/React-chat-app/index.html",
+    "main.fa0a6809.css.map": "/React-chat-app/static/css/main.fa0a6809.css.map",
+    "main.d04c57a2.js.map": "/React-chat-app/static/js/main.d04c57a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa0a6809.css",
+    "static/js/main.d04c57a2.js"
+  ]
+}
