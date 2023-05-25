@@ -33,14 +33,14 @@ function NavbarComp() {
                 className="d-inline-block align-top rounded-circle "
                 alt=""
               />
-              <a className="nav-link  d-inline-block  text-white " href="#">
+              <button className="nav-link  d-inline-block  text-black ">
                 Ankitha
-              </a>
+              </button>
             </li>
             <li className="nav-item ">
-              <a className="nav-link text-white  " href="#">
+               <button className="nav-link text-black"> 
                 logout
-              </a>
+               </button>
             </li>
           </ul>
         </div>

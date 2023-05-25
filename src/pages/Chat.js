@@ -61,6 +61,9 @@ export default function Chat() {
         ) {
           return val;
         }
+        else{
+          return null;
+        }
       })
       .map((val, key) => {
         return val.message;
@@ -117,10 +120,10 @@ export default function Chat() {
             {/**below nav bar after top navbar*/}
 
             <nav className="navbar navbar-light bg-light ">
-              <a className="navbar-brand " href="#">
+              <button className="navbar-brand ">
                 <i className="fa-solid fa-crown  "></i>
                 &ensp; {currentToUser}
-              </a>
+              </button>
             </nav>
 
             {/**messageContainer */}
@@ -154,17 +157,20 @@ export default function Chat() {
                 />
               </div>
             </nav>
-
-            {ContactList.filter((val) => {
-              {
+            {
+            ContactList.filter((val) => {
+              
                 /**search function is implemented here */
-              }
+              
               if (searchTerm === "") {
                 return val;
               } else if (
                 val.name.toLowerCase().includes(searchTerm.toLowerCase())
               ) {
                 return val;
+              }
+              else{
+                return null;
               }
             }).map((val, key) => {
               return (

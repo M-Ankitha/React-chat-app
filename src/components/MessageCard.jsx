@@ -15,12 +15,15 @@ export default function MessageCard({ currentToUser }) {
           .sort((a, b) => {
             return a.time - b.time;
           })
-          .filter((val) => {
+          .filter=((val) => {
             if (
               val.toUser.toLowerCase().includes(currentToUser.toLowerCase()) ||
               val.fromUser.toLowerCase().includes(currentToUser.toLowerCase())
             ) {
               return val;
+            }
+            else{
+              return null;
             }
           })
           .map((contact) => {
@@ -28,7 +31,7 @@ export default function MessageCard({ currentToUser }) {
               <div
                 className="messageCard"
                 style={
-                  contact.fromUser == "Ankitha"
+                  contact.fromUser === "Ankitha"
                     ? { alignItems: "flex-end" }
                     : { alignItems: "flex-start" }
                 }
