@@ -1,3 +1,22 @@
+A simple React chat app is created using HTML, CSS, and javascript.
+
+Folder structure: I have added custom components in the component folder (contact card, message card, message json, and navbar)
+                  I have added the pages (home, chat and error) in pages folder.
+                  I have used react-redux framework so i have added reducer file in redux folder
+                  I have added other files App and index in src folder.
+         
+ How to start the projet:The project will run in http://localhost:3000/
+ The website has 3 pages Home and Chat.
+ 
+ working:
+ When user enter the website, click on create coversation button to enter the chat room. 
+ It takes to chat page, now user able to see all the contacts and last coversation message in the rightside bar.
+ When user sends a message to any contact, it will automatically update in the last conversation.
+ User can search contact in the search contact tab.
+ 
+ 
+ 
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
