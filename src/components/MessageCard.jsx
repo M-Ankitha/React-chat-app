@@ -15,7 +15,7 @@ export default function MessageCard({ currentToUser }) {
           .sort((a, b) => {
             return a.time - b.time;
           })
-          .filter=((val) => {
+          .filter((val) => {
             if (
               val.toUser.toLowerCase().includes(currentToUser.toLowerCase()) ||
               val.fromUser.toLowerCase().includes(currentToUser.toLowerCase())
