@@ -32,7 +32,7 @@ function App() {
           <Route exact path="/chat" element={<Chat />}></Route>
 
           {/** if any other routes then goes into error page */}
-//           <Route path="*" element={<Home />} />
+          {/**  <Route path="*" element={<Home />} />*/}
         </Routes>
       </div>
     </BrowserRouter>
