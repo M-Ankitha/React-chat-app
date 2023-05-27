@@ -12,7 +12,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Home from "./pages/Home";
 
 //importing error page
-import Error from "./pages/Error";
+//import Error from "./pages/Error";
 
 //importing chat page
 import Chat from "./pages/Chat";
@@ -32,7 +32,7 @@ function App() {
           <Route exact path="/chat" element={<Chat />}></Route>
 
           {/** if any other routes then goes into error page */}
-          <Route path="*" element={<Error />} />
+          <Route path="*" element={<Home />} />
         </Routes>
       </div>
     </BrowserRouter>
