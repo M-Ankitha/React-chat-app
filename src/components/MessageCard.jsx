@@ -15,7 +15,6 @@ export default function MessageCard({ currentToUser }) {
   return (
     <div>
       <div>
-      
         {/**first message list is sorted by time 
   then only message that are between from user(Ankitha) and to user is taken out and then its displayed*/}
         {messageList
@@ -43,18 +42,15 @@ export default function MessageCard({ currentToUser }) {
                     : { alignItems: "flex-start" }
                 }
               >
-                
                 <Card
                   border="secondary"
                   style={{
                     width: "18rem",
                     marginRight: "50px",
                     marginLeft: "50px",
-                   
                   }}
                   className="mb-3 "
                 >
-                
                   <Card.Body>
                     <Card.Text>{contact.message}</Card.Text>
                     <Card.Footer>
