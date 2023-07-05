@@ -1,9 +1,9 @@
 A simple React chat app is created using HTML, CSS, and javascript.
 
-Folder structure: I have added custom components in the component folder (contact card, message card, message json, and navbar)
-                  I have added the pages (home, chat and error) in pages folder.
-                  I have used react-redux framework so i have added reducer file in redux folder
-                  I have added other files App and index in src folder.
+Folder structure: > I have added custom components in the component folder (contact card, message card, message json, and navbar)
+                  > I have added the pages (home, chat and error) in pages folder.
+                  > I have used react-redux framework so i have added reducer file in redux folder
+                  > I have added other files App and index in src folder.
          
  How to start the projet:The project will run in http://localhost:3000/
  The website has 3 pages Home and Chat.
