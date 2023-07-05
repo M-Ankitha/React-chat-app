@@ -6,7 +6,7 @@ Folder structure: > I have added custom components in the component folder (cont
                   > I have added other files App and index in src folder.
          
  How to start the projet:The project will run in http://localhost:3000/
- The website has 3 pages Home and Chat.
+ The website has 3 pages Home, error  and Chat.
  
  working:
  When user enter the website, click on create coversation button to enter the chat room. 
